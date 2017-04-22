@@ -1,13 +1,13 @@
 {
-  "DASHBOARD_HEADLINE"                    : "Note",
-  "DASHBOARD_SUBHEADLINE"                 : "Please be aware that changes in the web portal could take up a while before come effective.",
+  "DASHBOARD_HEADLINE"                    : "Informação",
+  "DASHBOARD_SUBHEADLINE"                 : "Seu ponto único de contato com a Globo.com. Tudo o que vc precisa em único lugar.",
 
-  "DASHBOARD_BOX_PERSONAL_DATA_HEADLINE"  : "Personal Data",
-  "DASHBOARD_BOX_PERSONAL_DATA_CONTENT"   : "Show and edit your personal data, e.g. name, address, email or phone here.",
+  "DASHBOARD_BOX_PERSONAL_DATA_HEADLINE"  : "Preciso mudar meus dados",
+  "DASHBOARD_BOX_PERSONAL_DATA_CONTENT"   : "Nome, endereço, telefone. etc ",
 
-  "DASHBOARD_BOX_SEARCH_CUSTOMER_HEADLINE": "Search for Customer",
-  "DASHBOARD_BOX_SEARCH_CUSTOMER_CONTENT" : "Search for a specific customer and editing the customer data.",
+  "DASHBOARD_BOX_SEARCH_CUSTOMER_HEADLINE": "Estou com um problema, me ajude..",
+  "DASHBOARD_BOX_SEARCH_CUSTOMER_CONTENT" : "Nós temos uma série de informações para lhe ajudar, consulte. Clique aqui.",
 
-  "DASHBOARD_BOX_CREATE_CUSTOMER_HEADLINE": "Create new Customer",
-  "DASHBOARD_BOX_CREATE_CUSTOMER_CONTENT" : "Create a new customer and add the customer to your database."
+  "DASHBOARD_BOX_CREATE_CUSTOMER_HEADLINE": "Registre um problema",
+  "DASHBOARD_BOX_CREATE_CUSTOMER_CONTENT" : "Conte-nos o que esta ocorrendo, e um atendente vai entrar em contato."
 }
