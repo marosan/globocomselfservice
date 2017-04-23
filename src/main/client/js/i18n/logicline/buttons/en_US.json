@@ -2,8 +2,8 @@
   "BTN_LOGIN"   : "Login",
   "BTN_LOGOUT"  : "Log out",
   "BTN_UPLOAD"  : "Upload",
-  "BTN_SAVE"    : "Save",
-  "BTN_SEARCH"  : "Search",
-  "BTN_CANCEL"  : "Cancel",
-  "BTN_CLOSE"   : "Close"
+  "BTN_SAVE"    : "Salvar",
+  "BTN_SEARCH"  : "Buscar",
+  "BTN_CANCEL"  : "Cancelar",
+  "BTN_CLOSE"   : "Fechar"
 }
