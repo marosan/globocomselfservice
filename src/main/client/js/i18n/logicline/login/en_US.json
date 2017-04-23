@@ -1,14 +1,14 @@
 {
-    "HELLO": "Hello",
-    "HERE": "here",
+    "HELLO": "Olá",
+    "HERE": "aqui",
 
     "LOGIN_HEADLINE": "Login",
-    "LOGIN_SUBHEADLINE": "Please enter your credentials.",
-    "LOGIN_ERROR": "Wrong credentials.",
-    "LOGIN_FORBIDDEN": "Access forbidden.",
-    "LOGIN_LOCK_ERROR": "The log in is locked. Please try again in {{minutes}} minutes.",
-    "LOGIN_INTERNAL_ERROR": "Application is currently unavailable. Please contact your administrator.",
-    "LOGIN_INVALID_CONFIG": "The configuration of the App is incomplete. Please check the required steps",
+    "LOGIN_SUBHEADLINE": "Aqui, seu usuário e senha..",
+    "LOGIN_ERROR": "Não deu certo..",
+    "LOGIN_FORBIDDEN": "Acesso bloqueado.",
+    "LOGIN_LOCK_ERROR": "Acesso bloqueado. Por favor, tente em {{minutes}} minutos.",
+    "LOGIN_INTERNAL_ERROR": "Desculpe, Estamos com alguns problemas. Em breve retornaremos.",
+    "LOGIN_INVALID_CONFIG": "A configuração do sistema esta com problema. Por favor, veja os passos detlhados abaixo",
 
     "LOGIN_FORM_ORGANIZATION_ID": "Username *",
     "LOGIN_FORM_PASSWORD": "Password *"
